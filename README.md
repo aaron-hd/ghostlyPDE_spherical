@@ -1,2 +1,2 @@
 # ghostlyPDE_spherical
-Numerical evolution of two coupled spherically-symmetric scalar fields with opposite-sign kinetic terms evolving in N+1 dimensional spacetime. Based on the julia DifferentialEquations.jl package. 
+Numerical evolution of two coupled spherically-symmetric scalar fields with opposite-sign kinetic terms evolving in N+1 dimensional spacetime. Based on the julia DifferentialEquations.jl package. See, 2509.XXXXX for the corresponding scientific publication and this zenodo record for the corresponding animations. We ask you to please cite the above article when re-using (significant parts of) the code.
